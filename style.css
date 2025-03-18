@@ -9,3 +9,7 @@ h1, img{
 p{
     text-align: right;
 }
+
+body{
+  background-color: rgb(255, 209, 217);
+}
